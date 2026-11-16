@@ -1,0 +1,7 @@
+# Include only paths needed to package regcomply and execute its sample.
+*
+!README.md
+!pyproject.toml
+!regcomply.py
+!examples/
+!examples/**
