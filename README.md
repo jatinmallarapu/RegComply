@@ -17,6 +17,8 @@ Question or document → identifier masking → lexical ranking → cited eviden
 | Local acceptance tests | Cited retrieval, out-of-scope detection, PII masking, and version comparison |
 | Production benchmark | Pending |
 
+The bundled misleading-advertising question returns the reference summary for Rule 2210. The acceptance suite also checks a question with no matching evidence, redaction before rule matching, and a synthetic rule revision. The corpus contains two summaries, so recall and citation coverage on a reviewed golden set are still open measurements.
+
 ## Quickstart
 
 Python 3.11 or newer.
