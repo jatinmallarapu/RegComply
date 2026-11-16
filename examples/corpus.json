@@ -1,0 +1,32 @@
+[
+  {
+    "id": "finra2210-content-summary",
+    "rule": "FINRA 2210",
+    "version": "reference",
+    "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210",
+    "text": "Reference summary: FINRA Rule 2210 includes content standards for communications with the public, including limits on misleading statements.",
+    "terms": [
+      "finra",
+      "2210",
+      "advertising",
+      "communications",
+      "misleading",
+      "public",
+      "marketing"
+    ]
+  },
+  {
+    "id": "finra3110-supervision-summary",
+    "rule": "FINRA 3110",
+    "version": "reference",
+    "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/3110",
+    "text": "Reference summary: FINRA Rule 3110 addresses supervisory systems and written supervisory procedures.",
+    "terms": [
+      "finra",
+      "3110",
+      "supervision",
+      "supervisory",
+      "procedures"
+    ]
+  }
+]
